@@ -1,2 +1,11 @@
 # SublimeText
-Colourscheme's, Plugins, Snippets, Settings for Sublime Text
+Colourscheme's & Snippets for Sublime Text (2)
+
+## My SublimeText Packages folder structure
+
+	+Packages
+	|+User
+	||+Color
+	||+Snippets
+	...
+
