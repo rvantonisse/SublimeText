@@ -26,6 +26,7 @@
 			</dict>
 		</dict>
 		<dict>
+			<!-- General colors -->
 			<key>name</key>
 			<string>Comments</string>
 			<key>scope</key>
@@ -73,6 +74,7 @@
 				<string>#006699</string>
 			</dict>
 		</dict>
+		<!-- HTML specific -->
 		<dict>
 			<key>name</key>
 			<string>HTML-tag</string>
@@ -99,6 +101,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>HTML-tag-attribute-value</string>
+			<key>scope</key>
+			<string>text.html.basic string.quoted.double, source.js.embedded.html string.quoted.double</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cccccc</string>
+			</dict>
+		</dict>
+		<!-- HTML & CSS -->
+		<dict>
+			<key>name</key>
 			<string>HTML-tag-attribute-id :: CSS-id</string>
 			<key>scope</key>
 			<string>entity.other.attribute-name.id</string>
@@ -117,17 +131,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#666600</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>HTML-tag-attribute-value</string>
-			<key>scope</key>
-			<string>text.html.basic string.quoted.double, source.js.embedded.html string.quoted.double</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#cccccc</string>
 			</dict>
 		</dict>
 		<dict>
@@ -154,6 +157,7 @@
 				<string>bold</string>
 			</dict>
 		</dict>
+		<!-- MARKDOWM Specific -->
 		<dict>
 			<key>name</key>
 			<string>Markdown-heading</string>
