@@ -1,0 +1,45 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+			
+		<meta name="author" content="" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<title></title>
+
+		<link rel="stylesheet" type="text/css" href="">
+	</head>
+	<body>
+		<header>
+			<h1>html5 Boiler</h1>
+			<p>By RV Antonisse</p>
+		</header>
+
+		<main>
+			<section>
+				<header>
+					<h2>Start Templating</h2>
+					<p>With this html5 Boiler</p>
+				</header>
+				<p>Lets go lawl!</p>
+
+			</section>
+		</main>
+
+		<footer>
+		</footer>
+
+		<script src=""></script>
+	</body>
+</html>
+]]>
+</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rvaHtml5</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
